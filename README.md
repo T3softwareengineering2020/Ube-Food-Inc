@@ -4,12 +4,19 @@ Ube Food Inc, purple foods, purple world.
 Team Member Responsibilities:
 
 Jonathan Rivera - Database Systems
+
 Edwin Acosta - Documentation, coding, website
+
 Chris Espinal - 
+
 Pedro Montes - 
+
 Albert Cedeno - 
+
 Christy Remijio - 
+
 Xujuan Chen - 
+
 REQUIREMENTS DOCUMENTATION 
 Requirements include the following: 
 
